@@ -46,16 +46,7 @@
 
 
 
-<h3 align="center"><a href="https://mohit-nikeclone.vercel.app/"><strong>Want to see live preview »</strong></a></h3>
-
-<p align="center">
-  <br />&#10023;
-  <a href="#Demo">View Demo</a> &#10023;
-  <a href="https://github.com/m-sehrawat/Nike-Clone/issues">Report Bug</a> &#10023;
-  <a href="#Getting-Started">Getting Started</a> &#10023; 
-  <a href="#Install">Installing</a> &#10023;
-  <a href="#Contact">Author</a> &#10023;
-</p>
+<h3 align="center"><a href="https://nike-clone-pi-one.vercel.app/"><strong>Want to see live preview »</strong></a></h3>
 
 
 Nike Clone is MERN Stack e-commerce web application that allows you to buy shoes & clothes online with payment gateway integration. It has a variety of categories, just visit the product listing page and you will see all the products, apply filters as per your need and in just a few clicks you can buy any products from the website. This project is just for educational purpose.
@@ -158,12 +149,7 @@ NIKE30 (for 30% Off)
 <br />
 
 
-<h2>Demo</h2>
 
-[Click here to see the presentation video of this project](https://www.linkedin.com/posts/m-sehrawat_reactjs-nike-nikecareers-activity-6947552300534042624-me2_?utm_source=linkedin_share&utm_medium=member_desktop_web)
-
-
-<br />
 
 
 ## Getting Started
@@ -180,19 +166,19 @@ This project was built using React, Redux, Chakra UI, HTML, CSS, JavaScript, Res
 ### Setup
 
 
-The project repository can be found in [GitHub link](https://github.com/m-sehrawat/Nike-Clone) or just clone the project using this command.
+The project repository can be found in [GitHub link](https://github.com/visheshb1207/nike-clone) or just clone the project using this command.
 
 
 ```
 Using HTTPS
 
-# git clone https://github.com/m-sehrawat/Nike-Clone.git
+# git clone https://github.com/visheshb1207/nike-clone.git
 ```
 
 + Open terminal on your workspace with
 
 ```
-cd /home/workspace/Nike-Clone
+cd /home/workspace/nike-clone
 ```
 
 
@@ -275,13 +261,11 @@ To run this project, you will need to add the following environment variables to
 
 If you want to contact me, you can reach me through below handles.
 
-[![linkedin](https://img.shields.io/badge/Mohit_Sehrawat-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m-sehrawat/)
-[![GitHub](https://img.shields.io/badge/Mohit_Sehrawat-20232A?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/m-sehrawat/)
+[![linkedin](https://img.shields.io/badge/Vishesh_Bairwa-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishesh1207/)
+[![GitHub](https://img.shields.io/badge/Vishesh_Bairwa-20232A?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/visheshb1207/)
 
-© 2022 Mohit Sehrawat
+© 2025 Vishesh Bairwa
 
 
-
-## Show your support
 
 Give a ⭐️ if you like this project!
